@@ -1,7 +1,7 @@
 # Landing Page
  
 
-## Página desenvolvida com tutorial da Raffa Ballerini 👩🏽‍💻
+## Página desenvolvida com tutorial da Rafa Ballerini 👩🏽‍💻
 
 👇🏽
 ### [Clique aqui para acessar a página ](https://letsle.github.io/Landing-Page/)
